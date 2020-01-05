@@ -1,0 +1,12 @@
+{
+    "name": "ch4o5/sm2-php",
+    "type": "library",
+    "license": "MPL-2.0",
+    "authors": [
+        {
+            "name": "ch4o5",
+            "email": "dongyunli619@gmail.com"
+        }
+    ],
+    "require": {}
+}
